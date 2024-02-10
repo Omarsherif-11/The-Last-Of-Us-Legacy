@@ -1,0 +1,3 @@
+- if you want to run the tests they are using junit 5.
+- To start the game you have to run the file called mainView.java and it will launch the game.
+- if you would like to help me improve or add notes please do so.
